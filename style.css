@@ -1,0 +1,83 @@
+﻿body {
+    background-image:url(Images/gray-japanese-circles-2.png);
+}
+a {
+	text-decoration: none;
+	color:black;
+}
+.menu {
+	font-style: italic;
+	font-size: 20px;
+	list-style:none;
+	color:#8B00FF;
+}
+.menuname{
+	font-style: italic;
+	font-size: 20px;
+}
+h3{
+	color:black;
+	font-size:18px;
+	font-weight:400;
+	background-color:#eaeaea;
+}
+.kratkoeopisanie{
+	color:#707070;
+	font-size:14px;
+	font-style: italic;
+	line-height:16px;
+}
+.podrobnoeopisanie{
+	color:#484343;
+	font-size:16px;
+	font-weight:400;
+	line-height:24px;
+	text-align:left-side;
+}
+.spisok{
+	color:purple;
+	list-style-type:decimal;
+}
+.imy{
+	text-transform:capitalize;
+	height:25px;
+	width:30%;
+	color:black;
+	font-style: italic;
+}
+.email, .tema{
+	text-transform:capitalize;
+	height:25px;
+	width:25%;
+	color:black;
+}
+.pismo{
+	text-transform:capitalize;
+}
+.menu li a:hover {
+color: #1896FF;
+}
+.menu li a:active{
+color: red;
+}
+.footer{
+    text-align:center;
+    position:relative;
+    ;
+}
+li{
+    color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
